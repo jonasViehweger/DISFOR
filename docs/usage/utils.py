@@ -11,7 +11,7 @@ def prepare_browser_urls():
     samples = gpd.read_parquet(disfor.get("samples.parquet"))
     samples.fillna("", inplace=True)
     labels = pl.read_parquet(disfor.get("labels.parquet")).with_columns(
-        is_event=pl.col.start.dt.day() == pl.col.end.dt.day()
+        is_event=pl.col.start.dt.epoch("d") == pl.col.end.dt.epoch("d")
     )
     with disfor.get("classes.json").open() as f:
         classes_mapping = json.load(f)
