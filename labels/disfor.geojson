@@ -87791,14 +87791,14 @@
             "properties": {
                 "sample_id": 3130,
                 "flags": {
-                    "2016-05-01": "110",
+                    "2015-07-11": "110",
                     "2024-10-16": "110"
                 },
-                "confidence": "",
+                "confidence": "high",
                 "cluster_id": "2",
                 "source": "Sentinel 2 Time-series",
                 "comment": "",
-                "interpreter": "",
+                "interpreter": "vij",
                 "original_sample_id": 2308,
                 "dataset": 2,
                 "source_description": "HR-VPP2 and FUTUREFOR Project, manual interpretation based on S2 timeseries, ESRI wayback and ESA High Resolution Images",
@@ -105097,7 +105097,7 @@
                 "flags": {
                     "2016-11-24": "110",
                     "2020-01-08": "110",
-                    "2020-01-28": "242"
+                    "2020-01-28": "245"
                 },
                 "confidence": "high",
                 "cluster_id": "FR20200122",
