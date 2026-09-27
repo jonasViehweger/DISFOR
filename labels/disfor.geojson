@@ -7819,36 +7819,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.475465609530662,
-                    61.820795149129005
-                ]
-            },
-            "properties": {
-                "sample_id": 259,
-                "flags": {
-                    "2015-08-19": "121",
-                    "2018-07-04": "121",
-                    "2018-08-08": "242",
-                    "2021-08-10": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "growing forest",
-                "interpreter": "vij",
-                "original_sample_id": 277,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.384292485662717,
                     61.819050921018274
                 ]
@@ -7909,36 +7879,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.46582062466537,
-                    61.78862298323157
-                ]
-            },
-            "properties": {
-                "sample_id": 262,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 280,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.494732662432105,
                     61.8037508974498
                 ]
@@ -7986,33 +7926,6 @@
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 282,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4081265984044,
-                    61.834200469875924
-                ]
-            },
-            "properties": {
-                "sample_id": 265,
-                "flags": {
-                    "2015-08-19": "123",
-                    "2024-11-09": "123"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "not forested",
-                "interpreter": "vij",
-                "original_sample_id": 283,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -8101,64 +8014,6 @@
                 "comment": "little recovery",
                 "interpreter": "vij",
                 "original_sample_id": 286,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.414951859272113,
-                    61.83875072563838
-                ]
-            },
-            "properties": {
-                "sample_id": 269,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-09-02": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "border",
-                "interpreter": "vij",
-                "original_sample_id": 287,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.425058752104315,
-                    61.81760915956224
-                ]
-            },
-            "properties": {
-                "sample_id": 270,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "small loss of vitality",
-                "interpreter": "vij",
-                "original_sample_id": 290,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -8408,96 +8263,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.441234612928639,
-                    61.832864876759984
-                ]
-            },
-            "properties": {
-                "sample_id": 279,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-08-21": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "consistent recovery",
-                "interpreter": "vij",
-                "original_sample_id": 301,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.449011475612593,
-                    61.80825481264031
-                ]
-            },
-            "properties": {
-                "sample_id": 280,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2022-10-04": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "slow recovery",
-                "interpreter": "vij",
-                "original_sample_id": 302,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.389545767193562,
-                    61.81547063304796
-                ]
-            },
-            "properties": {
-                "sample_id": 281,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2023-09-09": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 304,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.451099919574085,
                     61.78693268052008
                 ]
@@ -8517,66 +8282,6 @@
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 305,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.397293684653475,
-                    61.79364959768037
-                ]
-            },
-            "properties": {
-                "sample_id": 283,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-17": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 306,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.452644972536822,
-                    61.803134881118325
-                ]
-            },
-            "properties": {
-                "sample_id": 284,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 307,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -8618,34 +8323,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.392790552923366,
-                    61.83614318129455
-                ]
-            },
-            "properties": {
-                "sample_id": 286,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-22": "242"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "no obvious recovery",
-                "interpreter": "vij",
-                "original_sample_id": 310,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.406228208782025,
                     61.833304115648005
                 ]
@@ -8663,36 +8340,6 @@
                 "comment": "no obvious recovery",
                 "interpreter": "vij",
                 "original_sample_id": 311,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.49557979152756,
-                    61.80753885983443
-                ]
-            },
-            "properties": {
-                "sample_id": 288,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "71.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 312,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -8734,36 +8381,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.408560102018175,
-                    61.80033428026495
-                ]
-            },
-            "properties": {
-                "sample_id": 290,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "good recovery",
-                "interpreter": "vij",
-                "original_sample_id": 314,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.383248496493989,
                     61.81529076006004
                 ]
@@ -8778,190 +8395,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "low TCD",
                 "interpreter": "vij",
                 "original_sample_id": 316,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.475465609530662,
-                    61.820795149129005
-                ]
-            },
-            "properties": {
-                "sample_id": 292,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-04": "110",
-                    "2018-07-17": "242",
-                    "2019-06-27": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "young forest",
-                "interpreter": "vij",
-                "original_sample_id": 317,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.475590227988222,
-                    61.80942400179993
-                ]
-            },
-            "properties": {
-                "sample_id": 293,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2021-05-14": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "slight impact",
-                "interpreter": "vij",
-                "original_sample_id": 318,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.46582062466537,
-                    61.78862298323157
-                ]
-            },
-            "properties": {
-                "sample_id": 294,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-05-08": "110",
-                    "2018-05-10": "212",
-                    "2018-08-01": "242",
-                    "2020-05-22": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "forest road before burn",
-                "interpreter": "vij",
-                "original_sample_id": 319,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4081265984044,
-                    61.834200469875924
-                ]
-            },
-            "properties": {
-                "sample_id": 295,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2019-05-08": "110",
-                    "2019-06-04": "242"
-                },
-                "confidence": "medium",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "little impact, low TCD",
-                "interpreter": "vij",
-                "original_sample_id": 322,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.450907749121384,
-                    61.812318233694846
-                ]
-            },
-            "properties": {
-                "sample_id": 296,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2020-08-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "border",
-                "interpreter": "vij",
-                "original_sample_id": 324,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.439227255403772,
-                    61.78633217646946
-                ]
-            },
-            "properties": {
-                "sample_id": 297,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "slow recovery",
-                "interpreter": "vij",
-                "original_sample_id": 325,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -8987,279 +8425,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 326,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.425058752104315,
-                    61.81760915956224
-                ]
-            },
-            "properties": {
-                "sample_id": 299,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "medium",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "low impact",
-                "interpreter": "vij",
-                "original_sample_id": 329,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.47881838361103,
-                    61.80728017731869
-                ]
-            },
-            "properties": {
-                "sample_id": 300,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 330,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.366977377030103,
-                    61.81975984063178
-                ]
-            },
-            "properties": {
-                "sample_id": 301,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 331,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.459324008864577,
-                    61.82357257701552
-                ]
-            },
-            "properties": {
-                "sample_id": 302,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2021-05-14": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 332,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.454519846034003,
-                    61.792458161566145
-                ]
-            },
-            "properties": {
-                "sample_id": 303,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "slow recovery",
-                "interpreter": "vij",
-                "original_sample_id": 335,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.398954081962115,
-                    61.797578876003435
-                ]
-            },
-            "properties": {
-                "sample_id": 304,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "young forest",
-                "interpreter": "vij",
-                "original_sample_id": 336,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.416499117533704,
-                    61.79071985831776
-                ]
-            },
-            "properties": {
-                "sample_id": 305,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 337,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.44079713443567,
-                    61.79507739817037
-                ]
-            },
-            "properties": {
-                "sample_id": 306,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242"
-                },
-                "confidence": "medium",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "low impact",
-                "interpreter": "vij",
-                "original_sample_id": 338,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.503597604258731,
-                    61.794189590485544
-                ]
-            },
-            "properties": {
-                "sample_id": 307,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2019-04-28": "110",
-                    "2019-04-30": "242",
-                    "2021-06-01": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "low intensity",
-                "interpreter": "vij",
-                "original_sample_id": 339,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -9285,39 +8455,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 340,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.449011475612593,
-                    61.80825481264031
-                ]
-            },
-            "properties": {
-                "sample_id": 309,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "no visible recovery",
-                "interpreter": "vij",
-                "original_sample_id": 341,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -9343,41 +8485,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 343,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.451099919574085,
-                    61.78693268052008
-                ]
-            },
-            "properties": {
-                "sample_id": 311,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-24": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 344,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -9403,7 +8515,7 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
@@ -9433,7 +8545,7 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
@@ -9463,99 +8575,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "low intensity",
                 "interpreter": "vij",
                 "original_sample_id": 347,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.433955823697483,
-                    61.8165331962865
-                ]
-            },
-            "properties": {
-                "sample_id": 315,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 348,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.392790552923366,
-                    61.83614318129455
-                ]
-            },
-            "properties": {
-                "sample_id": 316,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-22": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 349,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.406228208782025,
-                    61.833304115648005
-                ]
-            },
-            "properties": {
-                "sample_id": 317,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "no visible recovery",
-                "interpreter": "vij",
-                "original_sample_id": 350,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -9581,41 +8605,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "72.0",
+                "cluster_id": "71.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 351,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.365762574176117,
-                    61.81875660191481
-                ]
-            },
-            "properties": {
-                "sample_id": 319,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-27": "242",
-                    "2019-06-07": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "72.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 352,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -9972,36 +8966,6 @@
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 368,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.520668618647484,
-                    61.59528376069332
-                ]
-            },
-            "properties": {
-                "sample_id": 332,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-17": "110",
-                    "2018-08-31": "242",
-                    "2021-05-14": "120",
-                    "2024-11-09": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "73.0",
-                "source": "EFFIS",
-                "comment": "low recovery",
-                "interpreter": "vij",
-                "original_sample_id": 371,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -10403,66 +9367,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.497810990307102,
-                    61.62116498709883
-                ]
-            },
-            "properties": {
-                "sample_id": 346,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-04": "110",
-                    "2018-07-22": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 393,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.560094476964622,
-                    61.61337455107859
-                ]
-            },
-            "properties": {
-                "sample_id": 347,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-14": "110",
-                    "2018-07-24": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 394,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     13.510829982922598,
                     61.61378583819528
                 ]
@@ -10477,279 +9381,11 @@
                     "2024-11-09": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "74.0",
+                "cluster_id": "73.0",
                 "source": "EFFIS",
                 "comment": "low TCD",
                 "interpreter": "vij",
                 "original_sample_id": 395,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.57818365435328,
-                    61.615136691511005
-                ]
-            },
-            "properties": {
-                "sample_id": 349,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-04": "110",
-                    "2018-07-22": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "border low TCD",
-                "interpreter": "vij",
-                "original_sample_id": 398,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.631780918314544,
-                    61.61528361062133
-                ]
-            },
-            "properties": {
-                "sample_id": 350,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-22": "110",
-                    "2018-08-23": "242",
-                    "2019-05-15": "120",
-                    "2024-11-09": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "border",
-                "interpreter": "vij",
-                "original_sample_id": 401,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.530810163788404,
-                    61.61950350315832
-                ]
-            },
-            "properties": {
-                "sample_id": 351,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-14": "110",
-                    "2018-07-22": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "border",
-                "interpreter": "vij",
-                "original_sample_id": 402,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.575510158688033,
-                    61.619848228106115
-                ]
-            },
-            "properties": {
-                "sample_id": 352,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-04": "110",
-                    "2018-07-24": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 403,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.520668618647484,
-                    61.59528376069332
-                ]
-            },
-            "properties": {
-                "sample_id": 353,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-17": "110",
-                    "2018-08-31": "242"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "no visible recovery",
-                "interpreter": "vij",
-                "original_sample_id": 406,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.574692555652033,
-                    61.62590129327402
-                ]
-            },
-            "properties": {
-                "sample_id": 354,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-14": "110",
-                    "2018-07-22": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 407,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.604458904665762,
-                    61.63771970725863
-                ]
-            },
-            "properties": {
-                "sample_id": 355,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-17": "110",
-                    "2018-08-06": "242",
-                    "2019-06-14": "120",
-                    "2024-11-09": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "low TCD",
-                "interpreter": "vij",
-                "original_sample_id": 408,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.553589899183706,
-                    61.593728921915265
-                ]
-            },
-            "properties": {
-                "sample_id": 356,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-22": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 410,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.631965974895406,
-                    61.61366377042976
-                ]
-            },
-            "properties": {
-                "sample_id": 357,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-22": "110",
-                    "2018-07-27": "242",
-                    "2019-05-15": "120",
-                    "2024-11-09": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "slight recovery",
-                "interpreter": "vij",
-                "original_sample_id": 411,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
@@ -10775,191 +9411,11 @@
                     "2024-11-27": "120"
                 },
                 "confidence": "high",
-                "cluster_id": "74.0",
+                "cluster_id": "73.0",
                 "source": "EFFIS",
                 "comment": "",
                 "interpreter": "vij",
                 "original_sample_id": 412,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.526282184256797,
-                    61.600664749233054
-                ]
-            },
-            "properties": {
-                "sample_id": 359,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-22": "242",
-                    "2019-04-28": "120",
-                    "2024-11-09": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "border to forest road",
-                "interpreter": "vij",
-                "original_sample_id": 413,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.540697621062534,
-                    61.607817918629344
-                ]
-            },
-            "properties": {
-                "sample_id": 360,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-04": "110",
-                    "2018-07-24": "242",
-                    "2019-04-28": "120",
-                    "2024-11-09": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 415,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.495272172966542,
-                    61.6060490147364
-                ]
-            },
-            "properties": {
-                "sample_id": 361,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-08-11": "242",
-                    "2020-08-02": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "low TCD slight recovery",
-                "interpreter": "vij",
-                "original_sample_id": 416,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.607744066916597,
-                    61.60547578349289
-                ]
-            },
-            "properties": {
-                "sample_id": 362,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-22": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "low TCD",
-                "interpreter": "vij",
-                "original_sample_id": 418,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.567636027726723,
-                    61.61503352978476
-                ]
-            },
-            "properties": {
-                "sample_id": 363,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-12": "110",
-                    "2018-07-22": "242",
-                    "2019-04-28": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "low TCD",
-                "interpreter": "vij",
-                "original_sample_id": 421,
-                "dataset": 1,
-                "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
-                "s2_tile": "33VVJ",
-                "cluster_description": "Damage polygons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.58725267378508,
-                    61.629752941824876
-                ]
-            },
-            "properties": {
-                "sample_id": 364,
-                "flags": {
-                    "2015-08-19": "110",
-                    "2018-07-17": "110",
-                    "2018-08-06": "242",
-                    "2019-04-30": "120",
-                    "2024-11-27": "120"
-                },
-                "confidence": "high",
-                "cluster_id": "74.0",
-                "source": "EFFIS",
-                "comment": "",
-                "interpreter": "vij",
-                "original_sample_id": 422,
                 "dataset": 1,
                 "source_description": "Evoland Project, EFFIS Source of Wildfire Polygons, timing interpretation based on S2 timeseries",
                 "s2_tile": "33VVJ",
