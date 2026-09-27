@@ -87791,14 +87791,14 @@
             "properties": {
                 "sample_id": 3130,
                 "flags": {
-                    "2015-07-11": "110",
+                    "2016-05-01": "110",
                     "2024-10-16": "110"
                 },
-                "confidence": "high",
+                "confidence": "",
                 "cluster_id": "2",
                 "source": "Sentinel 2 Time-series",
                 "comment": "",
-                "interpreter": "vij",
+                "interpreter": "",
                 "original_sample_id": 2308,
                 "dataset": 2,
                 "source_description": "HR-VPP2 and FUTUREFOR Project, manual interpretation based on S2 timeseries, ESRI wayback and ESA High Resolution Images",
@@ -104955,9 +104955,9 @@
             "properties": {
                 "sample_id": 3725,
                 "flags": {
-                    "2016-11-24": "110",
+                    "2015-08-02": "110",
                     "2020-01-08": "110",
-                    "2020-01-28": "242"
+                    "2020-01-28": "245"
                 },
                 "confidence": "high",
                 "cluster_id": "FR20200122",
@@ -104983,9 +104983,11 @@
             "properties": {
                 "sample_id": 3726,
                 "flags": {
-                    "2016-11-24": "110",
+                    "2015-08-02": "110",
                     "2020-01-08": "110",
-                    "2020-01-28": "242"
+                    "2020-01-28": "245",
+                    "2022-06-06": "120",
+                    "2024-11-27": "120"
                 },
                 "confidence": "high",
                 "cluster_id": "FR20200122",
@@ -105011,9 +105013,9 @@
             "properties": {
                 "sample_id": 3727,
                 "flags": {
-                    "2016-11-24": "110",
+                    "2015-08-02": "110",
                     "2020-01-08": "110",
-                    "2020-01-28": "242"
+                    "2020-01-28": "245"
                 },
                 "confidence": "high",
                 "cluster_id": "FR20200122",
@@ -105041,7 +105043,7 @@
                 "flags": {
                     "2016-11-14": "110",
                     "2020-01-08": "110",
-                    "2020-01-28": "242"
+                    "2020-01-28": "245"
                 },
                 "confidence": "high",
                 "cluster_id": "FR20200122",
@@ -105067,9 +105069,9 @@
             "properties": {
                 "sample_id": 3729,
                 "flags": {
-                    "2016-11-14": "110",
+                    "2015-08-02": "110",
                     "2020-01-08": "110",
-                    "2020-01-28": "242"
+                    "2020-01-28": "245"
                 },
                 "confidence": "high",
                 "cluster_id": "FR20200122",
@@ -105095,7 +105097,7 @@
             "properties": {
                 "sample_id": 3730,
                 "flags": {
-                    "2016-11-24": "110",
+                    "2015-08-02": "110",
                     "2020-01-08": "110",
                     "2020-01-28": "245"
                 },
